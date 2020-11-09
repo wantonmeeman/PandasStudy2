@@ -1,0 +1,86 @@
+year,segment,export_revenue
+2001,hardware,8.49
+2001,software,6.71
+2001,it services,0.59
+2001,telecommunication services,0.3
+2001,content services,0.31
+2002,hardware,8.36
+2002,software,7.03
+2002,it services,0.67
+2002,telecommunication services,0.33
+2002,content services,0.69
+2003,hardware,11.38
+2003,software,4.27
+2003,it services,0.89
+2003,telecommunication services,0.71
+2003,content services,0.53
+2004,hardware,13.31
+2004,software,4.17
+2004,it services,0.99
+2004,telecommunication services,0.79
+2004,content services,0.6
+2005,hardware,14.56
+2005,software,4.85
+2005,it services,1.1
+2005,telecommunication services,0.89
+2005,content services,0.66
+2006,hardware,19.93
+2006,software,6.25
+2006,it services,1.64
+2006,telecommunication services,0.99
+2006,content services,0.41
+2007,hardware,23.09
+2007,software,6.96
+2007,it services,1.41
+2007,telecommunication services,1.21
+2007,content services,0.65
+2008,hardware,23.86
+2008,software,7.47
+2008,it services,2.32
+2008,telecommunication services,1.25
+2008,content services,0.38
+2009,hardware,28.87
+2009,software,8.09
+2009,it services,1.67
+2009,telecommunication services,1.35
+2009,content services,0.46
+2010,hardware,31.28
+2010,software,9.29
+2010,it services,2.09
+2010,telecommunication services,3.45
+2010,content services,0.52
+2011,hardware,45.6
+2011,software,9.4
+2011,it services,2.7
+2011,telecommunication services,0.6
+2011,content services,0.6
+2012,hardware,61
+2012,software,9.6
+2012,it services,4.9
+2012,telecommunication services,1.6
+2012,content services,0.6
+2013,hardware,90.7
+2013,software,9.8
+2013,it services,4.4
+2013,telecommunication services,1.4
+2013,content services,1.5
+2014,hardware,98
+2014,software,9.1
+2014,it services,5.2
+2014,telecommunication services,2.9
+2014,content services,1.2
+2015,hardware,118.1
+2015,software,9.5
+2015,it services,4.9
+2015,telecommunication services,2.5
+2015,content services,1.1
+2016,hardware,111.3
+2016,software,7.9
+2016,it services,5.5
+2016,telecommunication services,2.1
+2016,content services,1
+2017,hardware,129
+2017,software,7
+2017,it services,6.4
+2017,telecommunication services,2.5
+2017,content services,0
